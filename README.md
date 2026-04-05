@@ -1,7 +1,9 @@
 # securly-source
 <b>Chrome Extension:
 Securly for Chromebooks
+<br>
 Spyware school extension, similar to GoGuardian
+<br/>
 Client Source Code</b>
 <br>
 <b>Traversing Directories</b>
