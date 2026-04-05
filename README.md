@@ -7,6 +7,7 @@ Spyware school extension, similar to GoGuardian
 Client Source Code</b>
 <br>
 <b>Traversing Directories</b>
+<br>
 MAIN-BRANCH/
 <p>
 MAIN-BRANCH/ contains the official extension file for Securly for Chromebooks. 
