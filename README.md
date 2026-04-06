@@ -24,4 +24,6 @@ NOTES/
 <p>
 NOTES/ contains my notes and considerations of Securly for Chromebooks and how it surveils students.
 </p>
+<br><br>
+<p><i><b>Please feel free to fork this repository and use this in any way you want.</b></i></p>
 
